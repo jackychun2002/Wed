@@ -1,0 +1,30 @@
+body{
+    background-image:url(file/200529171932-02-vietnam-corona-2270-4539-1590816094.png);
+    background-size: cover;
+}
+h1{
+    color: rgb(3, 90, 4);/* #FF3FF */
+    font-size:30px;
+    font-family: "time new roman"   ;
+    font-weight:400 ;/* độ đậm nhạt của chữ */
+    line-height: 50px;/* độ cao của dòng */
+    text-decoration: underline;/* kiểu gạch của chữ */
+        /* line-through kieu gach chữ */
+        /* none không gạch chân */
+        /* overlie gạch trên */
+    text-transform: lowercase;
+    /* viết thường hết */
+    /* capitalize viết hoa chữ cái đầu */
+}
+p{
+    font-size: 16px;
+    line-height: 25px;
+    color: #000dff;
+    width: 800px;
+    text-align: justify;
+    background-color: palegoldenrod;
+}
+img{
+    max-width: 100%;
+}
+
