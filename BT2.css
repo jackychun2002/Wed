@@ -1,0 +1,24 @@
+body{
+    font-size: 15px;
+    width: 700px;
+    margin: 20px 20% 30px 20%;
+    font-family: "time new roman";
+
+}
+span {
+    float: right;
+    text-align: right;
+    margin-top: 50px;
+}
+.a {
+    border-bottom: dashed #CC6699
+
+}
+u{
+    color: red;
+    font-size: 16px;
+}
+.b{
+    text-align: center;
+    margin-top: -30px;
+}
