@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab S4</title>
+    <link rel="stylesheet" href="Labs4.css">
+</head>
+<body>
+    <div class="all">
+        <form action="#" method="get">
+        <h1><b> Create  Task </b></h1>
+            <input class="type" name="Type" type="text" placeholder="Type"/>
+
+            <select class="company" name="Company" >
+                <option value="ĐH FPT">FPT Aptech</option>
+                <option value="ĐH TM">ĐH Thương Mại</option>
+                <option value="ĐH QG">ĐH Quốc Gia</option>
+                <option value="ĐH TNMT">ĐH Tài Nguyên Môi Trường</option>
+                <option value="ĐH NN">ĐH Ngoại Ngữ</option>
+            </select>
+            <select name="opportunity" class="opportunity">
+                <option value="ĐH">Đại học</option>
+                <option value="CĐ">Cao Đẳng</option>
+                <option value="TTPT">THPT</option>
+            </select>
+            <input class="name" type="text" name="Task name" placeholder="Task Name">
+            <input class="CC" type="text" placeholder="CC">
+
+            <div class="left">
+                <p>Nature of request</p>
+                <label> <input type="checkbox" value="Ads review">Ads Review<br/></label>
+                <label> <input type="checkbox" value="Keyword review">Keyword review<br/></label>
+                <label><input type="checkbox" value="Extension review">Extension Review<br/></label>
+            </div>
+            <div class="center">
+                <p>  Current reviewable status</p>
+                <label><input name="CRS" value="Approved" type="radio" />Approved</label><br/>
+                <label><input name="CRS" value="Notapproved" type="radio" />Not approved</label><br/>
+                <button id="tye" type="submit">Gửi đi</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
