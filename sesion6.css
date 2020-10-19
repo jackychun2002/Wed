@@ -104,7 +104,6 @@ img{
 .block-subcribe{
     background-color: #282828;
     color: white;
-    float: left;
     width: 100%;
     padding: 30px;
     margin-bottom: 30px;
@@ -117,7 +116,7 @@ img{
 .sub{
     background-color: firebrick;
     width: 95%;
-    height: 50px;
+    height: 70px;
     margin-top: 30px;
     text-align: center;
     padding-top: 20px;
