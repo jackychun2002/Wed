@@ -1,0 +1,237 @@
+body{
+    background-color: white; !important;
+    color:#242424;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    height: auto;
+}
+.cuaform{
+    text-align: right;
+    margin: auto;
+    text-transform: uppercase;
+}
+.sida{
+    padding-top: 20px;
+}
+.beeep{
+    float: left;
+}
+.bbb{
+    padding:0 10px;
+    background-color: unset;
+    border: 0;
+    color: white;
+    text-transform: uppercase;
+}
+.bbb:hover{
+    color: #30a8d5;
+    text-decoration: none;
+}
+.b{
+    color: #242424;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.dmg{
+    float: left;
+    width: 100%;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.scx{
+    font-size: 60px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.bct{
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.bamdc{
+    float: right;
+    padding-left: 15px;
+    color: white;
+    margin-bottom: 10px;
+}
+.bamdc:hover{
+    color: #30a8d5;
+}
+.top-links {
+    background-color: #2aabd2;
+    height: 100px;
+}
+header{
+    float: left;
+    background-image: url("file/b01.jpg");
+    color: white;
+}
+.header{
+    padding: 15px 0 15px 0;
+}
+.rac{
+    margin-top: 10px;
+    border-bottom: 1px solid #b9c2cb;
+    margin-bottom: 15px;
+}
+.vovan{
+    padding-top: 20px;
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+.sac{
+    background-color: #f2f2f2;
+    padding: 10px 5px ;
+    border: 0 solid ;
+    margin: 0 5px;
+}
+
+.tentau{
+    font-size: 20px;
+}
+.flip{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    position: absolute;
+    top: 30px;
+    left: 85%;
+    background-color: white;
+    z-index: -10;
+}
+.vkl{
+    margin-top: 30px;
+}
+.ki{
+    position: relative;
+    top: 25%;
+    left: 30%;
+
+}
+.flip-container{
+    margin-top: 20px;
+    background-color: dodgerblue;
+
+}
+.flip-container:hover{
+    background-color: mediumblue;
+    color: white;
+}
+.anhtau:hover .flip{
+    z-index:  10;
+}
+.bentrai{
+    background-color: white;!important;
+    color:#242424;!important;
+    float: left;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+.Gia{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: dodgerblue;
+    float: right;
+
+}
+.sua{
+    font-size: 14px;
+    color: #b9c2cb;
+    text-transform: none;
+}
+.vl{
+    padding:0 0 15px;
+    text-align: center;
+}
+.nhan{
+    color: white;
+    border: 0;
+    padding: 10px 15px;
+    margin-left: 15px;
+}
+.nut{
+    float: none;
+    text-align: center;
+}
+.nute{
+    border: 1px solid #242424;
+    background-color: white;
+    padding: 20px 25px;
+    margin: 60px 5px 80px;
+}
+.footer{
+    color: #a9aeb3;
+    background-color: #242424;
+}
+.abe{
+    margin-top: 50px;
+    height: auto;
+}
+.btv{
+
+    color: white;
+}
+.bba{
+    padding-bottom: 15px;
+}
+.mailc{
+    padding: 10px;
+    width: 100%;
+    background-color: #253241;
+    border: 0;
+}
+.dic{
+    position: absolute;
+    top: 88%;
+    right: 10%;
+}
+li{
+    list-style: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.bcc{
+    color: #cfcfcf;
+    text-decoration: none;
+}
+.bamdcc{
+    margin-top: 30px;
+}
+.con{
+    padding: 5px 5px 5px 0;
+}
+.bamc{
+    padding: 30px 15px 10px 25px;
+}
+.cccs{
+    color: #a9aeb3;
+}
+.cccs:hover{
+    color: blue;
+}
+.hnn{
+    text-transform: uppercase;
+    background-color: unset;
+    border: 1px solid white;
+    padding: 10px 25px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.hnn:hover{
+    background-color: white;
+    color: blue;
+}
+.bbc{
+    text-align: center;
+    padding: 10px 0 30px;
+}
+.bamc:hover{
+    color: #e2b71c;
+}
