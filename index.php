@@ -1,1 +1,1 @@
-<?php include("labs14.html");
+<?php include("PRACICAL.html");
